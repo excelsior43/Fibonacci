@@ -1,0 +1,8 @@
+tox
+Flask
+logzero  
+redis
+coverage
+Flask-Testing
+Flask-JSON
+Flask
